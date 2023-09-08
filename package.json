@@ -1,0 +1,28 @@
+{
+  "name": "@sushil37/nepalidate",
+  "version": "1.0.0",
+  "description": "this package gives current data in nepali",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushil37/nepaliDate.git"
+  },
+  "keywords": [
+    "nepalidate"
+  ],
+  "author": "sushil37",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushil37/nepaliDate/issues"
+  },
+  "homepage": "https://github.com/sushil37/nepaliDate#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "first-hello-npm": "^1.0.0"
+  }
+}
